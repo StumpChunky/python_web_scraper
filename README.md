@@ -1,5 +1,5 @@
 # python_web_scraper
-Allows pages with Javascript to fully load before scraping content
+Allows pages with JavaScript to fully load before scraping content
 
 More information can be found on: makershare.com
 
