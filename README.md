@@ -1,7 +1,8 @@
 # python_web_scraper
 Allows pages with JavaScript to fully load before scraping content
 
-More information can be found on: makershare.com
+More information can be found on:
+https://makershare.com/projects/web-scraper-python-makevember-001
 
 A simple script that uses selenium and a time delay to allow a website to fully load.
 
